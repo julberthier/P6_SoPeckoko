@@ -1,6 +1,7 @@
 *****************Pour utiliser le backend :*****************
 
 Cloner le repos d'origine https://github.com/OpenClassrooms-Student-Center/dwj-projet6
+puis cloner le backend dans un dossier backend/
 
 *********************Pour faire fonctionner le projet, vous devez installer :*********************
 
